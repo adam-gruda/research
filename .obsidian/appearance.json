@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "homepage-banner"
+  ],
+  "accentColor": "#6a1aff"
+}

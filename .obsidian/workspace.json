@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "9cfa3f6e1d19a554",
+    "type": "split",
+    "children": [
+      {
+        "id": "47fc56cc3c84ee7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "995c2e829cd7bf8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-10-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-10-29"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af0ff71d5588ad34",
+    "type": "split",
+    "children": [
+      {
+        "id": "f79da83d389ced58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f7e6cce0bb7a253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d5e230272960f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ba6243d6379c9f01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.0546875
+  },
+  "right": {
+    "id": "ea27878d7594b694",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc580dc8e5713c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ad38b45f790bda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-10-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "417c8dcaca4b8ad7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-10-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6ebd1cf89bfd5dcf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4ac11005c2251e36",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3e3e6d275accef5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-10-29.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage-blocks:Open homepage": false,
+      "cool-dashboard:Open dashboard": false
+    }
+  },
+  "active": "995c2e829cd7bf8a",
+  "lastOpenFiles": [
+    "00_Dashboard/Home.md",
+    "2026-10-29.md",
+    "2026-10-27.md",
+    "2026-10-20.md",
+    "2026-10-13.md",
+    "2026-10-12.md",
+    "2026-10-05.md",
+    "01_literature_review/A framework towards digital twins for type 2 diabetes.md",
+    "papers/fdgth-06-1336050.pdf",
+    "papers/fdgth-07-1633539.pdf",
+    "papers/fdgth-05-1253050.pdf",
+    "01_literature_review/DT reviews/Narrative Review of Digital Twins in the Health Domain Development, Application, and Evidence Consolidation.md",
+    "01_literature_review/DT reviews/Digital Twins in healthcare a comprehensive review and future directions.md",
+    "01_literature_review/DT reviews/Digital twins for health a scoping review.md",
+    "01_literature_review/DT reviews/Digital Twin for healthcare systems.md",
+    "01_literature_review/Development and usability testing of a patient digital twin for critical care education a mixed methods study.md",
+    "01_literature_review/DT reviews",
+    "Assets/Templates/article_review.md",
+    "deep phenotyping for iqsec2 rare disease review and proposal.md",
+    "PHD.md",
+    "02_Notes/Critical Thinking/analiza tekstu Holmse'a.canvas",
+    "02_Notes/grant_writing/notes.md",
+    "03_Datasets/IBD Plexus/Zrzut ekranu 2026-10-21 o 14.05.29.png",
+    "03_Datasets/IBD Plexus/Zrzut ekranu 2026-10-21 o 14.03.33.png",
+    "00_Dashboard/Reading Backlog.md",
+    "Research Board.canvas",
+    "02_Notes/Teaching Skills/notes.md",
+    "03_Datasets/IBD Plexus/Submission plan.md",
+    "Pasted image 20261021140621.png",
+    "Pasted image 20261021140312.png",
+    "03_Datasets/IBD Plexus/IBD Plexus.md",
+    "02_Notes/ethical.md",
+    "02_Notes/Recent trends in Biomedical Engineering/Recent trends in bio.md",
+    "Digital twin Overview.md",
+    "papers/fmed-10-1336897.pdf",
+    "02_Notes/grant_writing/Introduction.md",
+    "03_Datasets/SFARI.md",
+    "Assets/images/aleksander-rostov-conquest-of-revachol-flat-contrast.jpg",
+    "Assets/images",
+    "Assets/images/514987554_17902016112217175_2800514422101964701_n.jpg",
+    "papers/medsci-14-00330-v3.pdf",
+    "02_Notes/Teaching Skills",
+    "00_Dashboard",
+    "papers/s41746-024-01073-0 (1).pdf"
+  ]
+}

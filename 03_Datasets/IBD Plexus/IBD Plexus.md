@@ -1,0 +1,2 @@
+An IBD dataset contains longitudinal multimodal data for both Ulcerative Colitis and Crohn Disease. 
+Data access link: https://www.crohnscolitisfoundation.org/research/plexus/academic-request-for-proposal

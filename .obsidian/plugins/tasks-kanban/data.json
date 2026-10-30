@@ -1,0 +1,22 @@
+{
+  "baseQuery": "",
+  "baseCollapsedColumns": [],
+  "baseCollapsedGroups": [],
+  "baseColumns": [],
+  "savedBoards": [
+    {
+      "id": "8983da26-8b41-4e88-beba-6b05c0c22b8c",
+      "name": "Untitled board",
+      "query": "",
+      "collapsedColumns": []
+    },
+    {
+      "id": "7f434988-8eee-44e5-a0c9-8d97ca0f9706",
+      "name": "Untitled board",
+      "query": "tag includes #reading\nsort by priority",
+      "collapsedColumns": [],
+      "collapsedGroups": [],
+      "columns": []
+    }
+  ]
+}

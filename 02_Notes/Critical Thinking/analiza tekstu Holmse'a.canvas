@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"945215fc5a2d04d1","x":-140,"y":-340,"width":300,"height":100,"type":"text","text":"Martwy profesor trzyma w ręku binokle. Czy należą one do mężczyzny czy kobiety?"},
+		{"id":"885e40755cb19245","type":"text","text":"Kobieta ta posiada zmarszczone czoło, ostry wyraz twarzy i skrzywione rzeczy, przez ciągłe nachylanie się, spowodowane silną krótkowzrocznością\nKobieta ta posiada zmarszczone czoło, ostry wyraz twarzy i skrzywione rzeczy, przez ciągłe nachylanie się, spowodowane silną krótkowzrocznością","x":-340,"y":-140,"width":320,"height":140},
+		{"id":"2621f91a8d081872","type":"text","text":"Martwy profesor trzyma w ręku binokle. Czy należą one do mężczyzny czy kobiety?","x":60,"y":-140,"width":300,"height":100},
+		{"id":"5e80dbcdf5df6b25","type":"text","text":"Kobieta ta posiada zmarszczone czoło, ostry wyraz twarzy i skrzywione rzeczy, przez ciągłe nachylanie się, spowodowane silną krótkowzrocznością\nKobieta ta posiada zmarszczone czoło, ostry wyraz twarzy i skrzywione rzeczy, przez ciągłe nachylanie się, spowodowane silną krótkowzrocznością","x":-620,"y":60,"width":320,"height":140},
+		{"id":"602fbf2a675237fa","type":"text","text":"Binokle mogły służyć tylko do czytania, a nie wiemy jak często kobieta czyta","x":-180,"y":60,"width":320,"height":140}
+	],
+	"edges":[
+		{"id":"008c5456ab408537","fromNode":"945215fc5a2d04d1","fromSide":"bottom","toNode":"885e40755cb19245","toSide":"top","label":"TAK"},
+		{"id":"46cc50adc36906ff","fromNode":"945215fc5a2d04d1","fromSide":"bottom","toNode":"2621f91a8d081872","toSide":"top","label":"NIE"},
+		{"id":"51d93907fba1415b","fromNode":"885e40755cb19245","fromSide":"bottom","toNode":"5e80dbcdf5df6b25","toSide":"top","label":"TAK"},
+		{"id":"a6a41112a7502d15","fromNode":"885e40755cb19245","fromSide":"bottom","toNode":"602fbf2a675237fa","toSide":"top","label":"NIE"}
+	]
+}

@@ -1,0 +1,1 @@
+- [ ] Przerobić parę gier logicznych z https://prac.im.pwr.edu.pl/~kisielewicz/dydak.html
